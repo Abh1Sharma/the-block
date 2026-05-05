@@ -10,7 +10,7 @@ A buyer-side vehicle auction platform built for the OPENLANE coding challenge. B
 
 ```bash
 # 1. Clone and install
-git clone <your-fork-url>
+git clone https://github.com/Abh1Sharma/the-block.git
 cd the-block
 npm install
 
